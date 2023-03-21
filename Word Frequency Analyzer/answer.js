@@ -15,5 +15,5 @@ function word(text) {
   return sortedFreq;
 }
 
-const text = "The quick brown fox jumped over the lazy dog. The dog slept all day.";
+const text = "the most frequent words appearing first. the most frequent words.";
 console.log(word(text));
